@@ -1,0 +1,28 @@
+# Misc
+.DS_Store
+
+# Scala
+target
+
+# IDE and Build Tools
+.idea
+*.iml
+.ammonite/
+.bsp
+.bloop
+.dotty-ide*
+.history/
+.metals
+metals.sbt
+.direnv
+.vscode
+/project/.bloop
+null/
+**/results/
+.scala-build
+
+# JVM
+/dumps
+
+# Project specific
+*.worksheet.sc
